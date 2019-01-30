@@ -1,0 +1,13 @@
+In this exercise, you need to make some interesting things.
+First of all take a look at the html. You'll find three different divs with three different buttons.
+Every time that you click every button, "his" div needs to slideDown. (see jquery .slideDown() method).
+But here is the trickest thing. When you click any button, if some div is hidden, must to be shown again.
+For example: If you click the first button, the first div must be slideDown. If yo click the second button now,
+the second div dissapears but the first one must appears.
+ONLY the div that has clicked in last, have to be "hidden".
+Think about it.
+You only can make ONE function for all the buttons.
+
+Clue: Play with classes and "THIS" object.
+
+Good luck!!

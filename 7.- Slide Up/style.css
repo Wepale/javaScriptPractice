@@ -1,0 +1,36 @@
+.allDivs{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 100px auto;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.color{
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;  
+}
+
+.title{
+    text-align: center;
+}
+
+.box1{
+    background-color: lightblue;
+}
+
+.box2{
+    background: red;
+}
+
+.box3{
+    background: green;
+}

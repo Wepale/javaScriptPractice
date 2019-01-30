@@ -1,0 +1,7 @@
+Create a function to fill an array with 100 random numbers. You can't create it manually.
+
+After this, make another function that separate the numbers of the first array in two new arrays:
+    var oddNumbers = [];
+    var evenNumbers = [];
+
+You have to console.log these two arrays after create them.

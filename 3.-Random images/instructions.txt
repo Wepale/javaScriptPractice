@@ -1,0 +1,5 @@
+Make a function for show a random image in a div in the center of the page.
+You have the images in the 'images' folder in the root directory.
+
+You need a 'Randomize' button under the div with the image that
+makes the action...
